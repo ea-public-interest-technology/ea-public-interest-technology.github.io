@@ -1,6 +1,7 @@
 ---
 layout: page
 name: Altruistic Book Network
+title: Altruistic Book Network
 ---
 
 The [Altruistic Book Network](https://altruisticbook.net/) is an attempt to sell
