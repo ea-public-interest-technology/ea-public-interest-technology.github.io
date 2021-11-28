@@ -7,6 +7,7 @@ projects:
  - EACoLabs
  - AltruisticBookNetwork
 gravatar: 5f093977704e1358156970baad326706
+pronouns: he/him
 ---
 
 Hey! I'm Sam Nolan. I'm interested in Haskell, Type Systems, Formal Verification

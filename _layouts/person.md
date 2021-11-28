@@ -2,9 +2,15 @@
 layout: page
 ---
 
-<img alt="Gravatar" src="https://www.gravatar.com/avatar/{{page.gravatar}}?s=200">
+{% if page.gravatar %}
+<img alt="Profile Picture" src="https://www.gravatar.com/avatar/{{page.gravatar}}?s=200">
+{% elsif page.image %}
+<img alt="Profile Picture" src="{{page.image}}">
+{% else %}{% endif %}
 
-{{ content  }}
+<p><b>Pronouns: </b> {{page.pronouns}}</p>
+
+{{ content }}
 
 Projects:
 {% for project in page.projects %}
