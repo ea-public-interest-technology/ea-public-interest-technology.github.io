@@ -3,7 +3,7 @@ layout: person
 title: Jonathan Asketorp
 fullname: Jonatan Asketorp
 projects:
- - Brigade Project Statusboard
+ - https://projects.brigade.network/
 pronouns: he/him
 ---
 
