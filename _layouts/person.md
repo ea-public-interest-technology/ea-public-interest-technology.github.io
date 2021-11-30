@@ -15,6 +15,6 @@ layout: page
 Projects:
 {% for project in page.projects %}
 <ul>
- <li><a href="/projects/{{project}}.html">{{project}}</a></li>
+ <li>{{project}}</li>
 </ul>
 {% endfor %}
