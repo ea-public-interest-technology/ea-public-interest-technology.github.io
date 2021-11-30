@@ -9,4 +9,4 @@ in doing large amounts of good. We keep a list of projects and people on this
 page so that we can show off the fantastic people and work that's being done by
 our community.
 
-Our current organizers are Sam Nolan and Evelyn Fitzgerald.
+Our current organizers are [Sam Nolan](/people/SamNolan.html) and [Evelyn Fitzgerald](/people/evelynciara.html).
