@@ -2,9 +2,6 @@
 layout: person
 title: Pratik Agarwal
 fullname: Pratik Agarwal
-projects:
- - 
-gravatar: 
 pronouns: he/him
 ---
 
