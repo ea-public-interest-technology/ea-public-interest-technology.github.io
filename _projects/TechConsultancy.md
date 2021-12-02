@@ -2,6 +2,7 @@
 layout: page
 name: Tech consultancy
 title: Tech consultancy
+proposal: yes
 ---
 
 See:

@@ -2,6 +2,7 @@
 layout: page
 name: EA CoLabs
 title: EA CoLabs
+proposal: no
 ---
 
 EA CoLabs is a project that attempts to match EA volunteers with volunteering

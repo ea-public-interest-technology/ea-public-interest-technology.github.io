@@ -2,6 +2,7 @@
 layout: page
 name: Job matching for software engineers/EAs
 title: Job matching for software engineers/EAs
+proposal: yes
 ---
 
 An application that matches job seekers to organizations (companies,

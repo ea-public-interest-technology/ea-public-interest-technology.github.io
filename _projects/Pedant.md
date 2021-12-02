@@ -1,6 +1,7 @@
 ---
 layout: page
 name: Pedant
+proposal: no
 ---
 
 Pedant is a math DSL made for Cost Effectiveness Analysis. It's designed to make

@@ -2,6 +2,7 @@
 layout: page
 name: Altruistic Book Network
 title: Altruistic Book Network
+proposal: no
 ---
 
 The [Altruistic Book Network](https://altruisticbook.net/) is an attempt to sell

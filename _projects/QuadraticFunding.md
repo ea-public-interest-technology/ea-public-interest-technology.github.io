@@ -2,6 +2,7 @@
 layout: page
 name: Quadratic funding for EA projects
 title: Quadratic funding for EA projects
+proposal: yes
 ---
 
 A special fund where EAs decide which projects to fund using [quadratic funding](https://www.radicalxchange.org/concepts/quadratic-funding/) (QF). Quadratic funding uses a fancy algorithm to distribute matching funds from a pool, in which projects that get donations from more people get more matching funds.
