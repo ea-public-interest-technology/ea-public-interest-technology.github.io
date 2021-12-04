@@ -11,6 +11,8 @@ our community.
 
 Our current organizers are [Sam Nolan](/people/SamNolan.html) and [Evelyn Fitzgerald](/people/evelynciara.html).
 
+You can join our Slack workspace [here](https://join.slack.com/t/ea-pub-interest-tech/shared_invite/zt-tar2i03b-3xqmTh1lLFn8NWB6X1ZA6Q).
+
 ## What is public interest technology?
 
 Public interest technology or public interest tech (PIT) is a field that combines expertise in technology, especially computing, with the common good. Public interest tech can be divided into two approaches:
