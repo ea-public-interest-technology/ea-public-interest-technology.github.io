@@ -12,3 +12,5 @@ Similar to existing funding drives used heavily by the EA community, but with co
 - [Every.org #FallGivingChallenge](https://blog.every.org/fall-giving-challenge/): Every.org matches each person's donation to each organization up to $100, so orgs have to receive donations from lots of people to get more money.
 
 The fund could be implemented as a [Gitcoin Grant](https://gitcoin.co/grants/). A low bar can be set for what projects can be included in the grant (e.g. it has to be relevant to EA, and you have to prove that you'd actually do the project if you received the funds). Instead of a handful of experts deciding what to fund, the QF algorithm automatically directs funds to projects based on what EA community members think is valuable.
+
+I proposed this in [this EA Forum comment](https://forum.effectivealtruism.org/posts/rNterhfct9b9nHHvX/only-a-few-people-decide-about-funding-for-community?commentId=mNr5D2bxhJJr9cTy8).
