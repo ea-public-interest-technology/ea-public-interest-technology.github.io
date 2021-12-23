@@ -1,7 +1,7 @@
 ---
 layout: person
-title: Evelyn Fitzgerald
-fullname: Evelyn Fitzgerald
+title: Evelyn
+fullname: Evelyn
 pronouns: she/her
 ---
 
