@@ -33,6 +33,14 @@ _Main tag: [Data science](https://forum.effectivealtruism.org/tag/data-science) 
 
 * [What opportunities are there to use data science in global priorities research?](https://forum.effectivealtruism.org/posts/rEpXqF79KjErrsDjS/what-opportunities-are-there-to-use-data-science-in-global) by evelynciara, 2020
 
+## Related communities
+
+* [EA Creatives and Communicators Slack](https://forum.effectivealtruism.org/posts/3sRZkuQDbss3vwddk/ea-creatives-and-communicators-slack)
+* [EA Entrepreneurs](https://join.slack.com/t/eaentrepreneursgroup/shared_invite/zt-ybbzsfja-nE5_MWw0~ewh_k07Hjzn3Q) (Slack)
+* [EA Software Engineering](https://discord.gg/ec2PrKWF) (Discord)
+* [Information Security in Effective Altruism](https://www.facebook.com/groups/1007840666245792) (Facebook)
+* [Software, Data, and Tech Effective Altruism](https://www.facebook.com/groups/191773064533511) (Facebook)
+
 ## Public interest technology
 
 :warning: Section under construction
