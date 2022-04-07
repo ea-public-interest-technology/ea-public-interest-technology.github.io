@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: EA Public Interest Technologists
+title: Effective Public Interest Computing
 description: >- # this means to ignore newlines until "baseurl:"
-  Effective Altruism Public Interest Technologists is a community of
-  Effective Altruists interested in creating technology for the public good.
+  Effective Public Interest Computing is a community of
+  effective altruists interested in creating technology for the public good.
   Here we have our members and our projects.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ea-public-interest-technology.github.io" # the base hostname & protocol for your site, e.g. http://example.com

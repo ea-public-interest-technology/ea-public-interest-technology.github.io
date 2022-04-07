@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-These are the current EA Public Interest Technology projects
+These are the current Effective Public Interest Computing projects
 {% for project in site.projects %}
   <h2>
     <a href="{{ project.url }}">
