@@ -9,7 +9,7 @@ in doing large amounts of good. We keep a list of projects and people on this
 page so that we can show off the fantastic people and work that's being done by
 our community.
 
-Our current organizers are [Sam Nolan](/people/SamNolan.html) and [Evelyn Fitzgerald](/people/evelynciara.html).
+Our current organizers are [Sam Nolan](/people/SamNolan.html) and [Evelyn](/people/evelynciara.html).
 
 You can join our Slack workspace [here](https://join.slack.com/t/ea-pub-interest-tech/shared_invite/zt-tar2i03b-3xqmTh1lLFn8NWB6X1ZA6Q).
 
